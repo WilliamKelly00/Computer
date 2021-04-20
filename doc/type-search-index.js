@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Computer","l":"ALU"},{"p":"Computer","l":"Assembler"},{"p":"Computer","l":"bit"},{"p":"Computer","l":"computer"},{"p":"Interfaces","l":"IBit"},{"p":"Interfaces","l":"ILongword"},{"p":"Computer","l":"longword"},{"p":"Drivers","l":"Main_tests"},{"p":"Computer","l":"memory"},{"p":"Computer","l":"multiplier"},{"p":"Computer","l":"rippleAdder"}]
